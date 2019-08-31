@@ -1,1 +1,7 @@
-# Calipsometrics-4to-A.O.-Huergo
+# soloEnReact
+
+This is a project from the Luis A. Huergo Institute students to the enterprise Calipso using:
+
+- Mercadolibre's API.
+- HTML, CSS, JavaScript.
+- React.
